@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- My name is Anastasia Ivashchenko, I was born in 1991, in a big cold city
+ My name is Anastasia Ivashchenko, I live in Little Italy, Downtown San Diego, California. I was born in 1991, in a big cold city
                             in Siberia.
                             I've always been into photography but eventually chose my other field of interest - information technologies as a
                             primary source of income.
