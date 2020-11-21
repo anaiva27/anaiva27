@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My resume: https://docs.google.com/document/d/1UxibjffocpLGOC6m6LQlWTeZF7w3ytQqPaHPzi9bLEg/edit?usp=sharing
 <!--
 **anaiva27/anaiva27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
