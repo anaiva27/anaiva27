@@ -7,7 +7,7 @@
                             I'd like to share my story and portfolio, motivation, ambitions and goals with anyone who's
                             interested. You can also
                             reach out to me for colaborations using the contact info. <br>
-My resume: email me to see my resume nastia.iv.91@gmail.com
+My resume: https://docs.google.com/document/d/1UxibjffocpLGOC6m6LQlWTeZF7w3ytQqPaHPzi9bLEg/edit?usp=sharing
 <!--
 **anaiva27/anaiva27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
