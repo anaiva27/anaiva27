@@ -4,6 +4,7 @@
                             in Siberia.
                             I've always been into photography but eventually chose my other field of interest - information technologies as a
                             primary source of income.
+                            I have a Bachelor's degree in Information technologies from a State Technical University and I'm working on getting a certificate in full-stack  development from University of San Diego.
                             I'd like to share my story and portfolio, motivation, ambitions and goals with anyone who's
                             interested. You can also
                             reach out to me for colaborations using the contact info. <br>
