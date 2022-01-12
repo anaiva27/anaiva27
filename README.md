@@ -8,7 +8,7 @@
                             I'd like to share my story and portfolio, motivation, ambitions and goals with anyone who's
                             interested. You can also
                             reach out to me for colaborations using the contact info. <br>
-My resume: https://docs.google.com/document/d/1k8aTO8jplPRh0ODa3zUfP9QNGJ7AEOSIcIcezMNkGLA/edit?usp=sharing
+My resume: https://docs.google.com/document/d/1pxRisYD02Uw0lnDxtzRVXgE9Zwg48hxFPyeRS-BXKsE/edit?usp=sharing
 <!--
 **anaiva27/anaiva27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
