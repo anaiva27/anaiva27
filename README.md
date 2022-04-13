@@ -5,7 +5,7 @@
                             Proficient in designing, testing and debugging processes, with an ability to effectively manage multiple projects, conducting extensive market and consumer research and optimizing web functionalities that improve data retrieval.
  <br><br>
   Along with my obsession for perfecting code comes my unbeatable positive attitude. I’m passionate about finding the most efficient solutions for my team and my resiliency in problem solving. An engaging personality and excellent soft skills provide the confidence to easily fit in to any team setting and be an independent self starter if needed as well.
-My resume: https://docs.google.com/document/d/1PtJoRXOpNvIhfMHFU46RCC1rUtiEcLaEjvPH8janto8/edit?usp=sharing
+My resume: https://docs.google.com/document/d/1WPNMYFhY4QPC46VQ3Nzjs-SM6HK4EdM7Pz4ysUBcOYo/edit?usp=sharing
 <!--
 **anaiva27/anaiva27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
