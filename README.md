@@ -3,9 +3,7 @@
  Hey! My name is Anastasia Warren. I’m a passionate software developer experienced in front end, back end and database management.
                             I have a Bachelor's degree in Information technologies from a State Technical University and I'm working on getting a certificate in full-stack  development from University of San Diego.<br><br>
                             Proficient in designing, testing and debugging processes, with an ability to effectively manage multiple projects, conducting extensive market and consumer research and optimizing web functionalities that improve data retrieval.
- <br><br>
-  Along with my obsession for perfecting code comes my unbeatable positive attitude. I’m passionate about finding the most efficient solutions for my team and my resiliency in problem solving. An engaging personality and excellent soft skills provide the confidence to easily fit in to any team setting and be an independent self starter if needed as well.
-My resume: https://docs.google.com/document/d/1WPNMYFhY4QPC46VQ3Nzjs-SM6HK4EdM7Pz4ysUBcOYo/edit?usp=sharing
+
 <!--
 **anaiva27/anaiva27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
